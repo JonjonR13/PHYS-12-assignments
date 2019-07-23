@@ -63,7 +63,7 @@ void loop() {
     digitalWrite(8, HIGH);
     digitalWrite(6, HIGH);
     delay(10000);
-    tone(9, sum);
+    //tone(9, sum);
   } else {
     digitalWrite(13, LOW);
     digitalWrite(12, LOW);
