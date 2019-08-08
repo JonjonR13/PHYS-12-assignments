@@ -105,8 +105,9 @@ The code shown is a very simple program that will make the sonar sensor sense co
 <h1> The created hardware </h1>
 In order to create the frame and wheels of the robot you will have to use fusion 360 i have attached the files below. 
 
-[the wheel mold](https://a360.co/2MOxa5W)
-[the frame](https://a360.co/2OJWAUI)
+[Wheel 3D](https://a360.co/2MOxa5W)
+
+[Frame 3D](https://a360.co/2OJWAUI)
 
 The wheels are actually almost entirely silicon. The only piece not made of silicon is the core. Make these wheels you will have to 3d print the silicon wheel mold (print two because you will have to destroy them to remove the wheels) and the core. After printing place the core around the molded spindle and SLOWLY pour a silicon mix into the mold. 
 
