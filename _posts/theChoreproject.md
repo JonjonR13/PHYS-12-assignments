@@ -20,6 +20,8 @@ Over the past two weeks, I have built a robot that will potentially take your tr
 	- ultrasonic sonar sensor
 	- sautering iron
 	- fan
+	- swivel wheel
+
 
 these supplies are necessary and shouldnt cost more than 30 dollars! 
 </p1>
@@ -110,6 +112,15 @@ In order to create the frame and wheels of the robot you will have to use fusion
 [Frame 3D](https://a360.co/2OJWAUI)
 
 The wheels are actually almost entirely silicon. The only piece not made of silicon is the core. Make these wheels you will have to 3d print the silicon wheel mold (print two because you will have to destroy them to remove the wheels) and the core. After printing place the core around the molded spindle and SLOWLY pour a silicon mix into the mold. 
+<img src="IMG_6753.JPG" alt="Wheel">
+
 
 Next, you will have to lasercut the frame out of acrylic! Power settings on your laser cutter will likely have to be changed so I recommend looking up suggested power settigns specifically for your laser cutter.
 Just do it. 
+After you laser cut the frame I recommend using super glue, epoxy, or acrylic glue to piece the pieces together. Brush both sides with the glue give a second and press together. they dont have to be perfect but it looks better if you take your time. 
+After glueing all the pieces together you will have to attach the swivel wheel;however, I recommend adding that peice last after you confirm everything works.
+
+Now, place your electronics into hard frame and pray it works lol.
+if it works you are done and can add the swivel!!!!!!
+<img src="IMG_6754" alt="the product">
+
